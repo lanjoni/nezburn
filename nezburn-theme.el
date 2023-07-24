@@ -32,7 +32,7 @@
 (deftheme nezburn "The nezburn color theme.")
 
 (defgroup nezburn-theme nil
-  "nezburn theme."
+  "Nezburn theme."
   :group 'faces
   :prefix "nezburn-"
   :link '(url-link :tag "GitHub" "http://github.com/bbatsov/nezburn-emacs")
