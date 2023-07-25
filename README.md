@@ -1,2 +1,3 @@
 # nezburn
-The nezburn theme (inspired on zenburn) for Emacs
+
+The nezburn theme (inspired on zenburn) for Emacs.
