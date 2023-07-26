@@ -35,7 +35,7 @@
   "Nezburn theme."
   :group 'faces
   :prefix "nezburn-"
-  :link '(url-link :tag "GitHub" "http://github.com/bbatsov/nezburn-emacs")
+  :link '(url-link :tag "GitHub" "http://github.com/lanjoni/nezburn")
   :tag "nezburn theme")
 
 ;;;###autoload
