@@ -1,5 +1,8 @@
 # nezburn-theme
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![MELPA](http://melpa.org/packages/nezburn-theme-badge.svg)](http://melpa.org/#/nezburn-theme)
+
 The nezburn theme (inspired on zenburn) for Emacs. Very cool.
 
 ## Description
@@ -20,6 +23,17 @@ Download `nezburn-theme.el` to the directory `~/.emacs.d/themes/`. Add this to y
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
 ```
 > This will be responsible for referencing files inside the `.emacs.d/themes` directory to be initialized along with your configuration.
+
+### Package.el
+
+Nezburn is available in [MELPA](http://melpa.org). You can install `nezburn` with `M-x package-install nezburn-theme`!
+
+To load it automatically on Emacs startup add this to your init file:
+
+```el
+(load-theme 'nezburn t)
+```
+> This way works normally too.
 
 ## Authors
 
